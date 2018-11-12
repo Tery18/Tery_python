@@ -1,0 +1,10 @@
+print("I will now count  my chickens:")
+print("Hens",20+30/6)
+print('Roosters:',100-25*3%4)
+print('Now  i will  count  my eggs:')
+print(3+2+1-5+4%2-1/4+6)
+print("It's true  that 3+2<5 ?")
+print(3+2)
+print('What is 3+2?',3+2)
+print('What  is 99*99',99*99)
+
